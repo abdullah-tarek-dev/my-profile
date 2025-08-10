@@ -7,6 +7,7 @@ import noteImg from "../assets/note.jpg";
 import portImg from "../assets/portf.jpg";
 import myport from "../assets/myport.jpg";
 
+
 export default function Projects() {
   const projects = [
     {
