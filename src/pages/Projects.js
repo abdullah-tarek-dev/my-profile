@@ -5,15 +5,16 @@ import ecomImg from "../assets/ecom.jpg";
 import curreImg from "../assets/curre.jpg";
 import noteImg from "../assets/note.jpg";
 import portImg from "../assets/portf.jpg";
+import myport from "../assets/myport.jpg";
 
 export default function Projects() {
   const projects = [
     {
       title: "Portfolio Website",
       description: "A personal portfolio built with React, Tailwind CSS, and Framer Motion.",
-      image: "https://via.placeholder.com/400x250",
-      github: "https://github.com/your-username/portfolio",
-      live: "https://your-portfolio-link.com",
+      image: myport,
+      github: "https://github.com/abdullah-tarek-dev/my-profile",
+      live: "https://my-profile-silk-iota.vercel.app/",
     },
     {
       title: "Notes App",
