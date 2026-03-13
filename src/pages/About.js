@@ -45,13 +45,13 @@ export default function About() {
 
         {/* Buttons */}
         <div className="flex justify-center gap-6 mt-12">
-          <a
+          {/* <a
             href="/Abdullah_Tarek_CV.pdf"
             download
             className="px-6 py-3 bg-blue-600 rounded-lg font-semibold hover:bg-blue-500 transition text-white"
           >
             Download CV
-          </a>
+          </a> */}
           <Link
             to="/"
             className="px-6 py-3 bg-gray-600 rounded-lg font-semibold hover:bg-gray-500 transition text-white"
