@@ -11,37 +11,44 @@ export default function About() {
       <div
         className="max-w-4xl bg-white/10 backdrop-blur-md rounded-2xl shadow-xl p-12 text-white transition-transform transform hover:scale-105 hover:shadow-2xl duration-300"
       >
-        <h1 className="text-5xl font-bold mb-8 text-center">Who am I ? </h1>
+<h1 className="text-5xl font-bold mb-8 text-center">Who am I?</h1>
 
-        <p className="text-xl leading-relaxed mb-8">
-          Hi! I'm <span className="font-semibold">Abdullah Tarek</span>, a
-          passionate and ambitious{" "}
-          <span className="text-blue-400">Full Stack Developer</span> with strong
-          skills in both frontend and backend development. I love creating
-          modern, responsive, and user-friendly web applications.
-        </p>
+<p className="text-xl leading-relaxed mb-8">
+  Hi! I'm <span className="font-semibold">Abdullah Tarek</span>, a passionate
+  and motivated{" "}
+  <span className="text-blue-400">
+    Backend .NET Developer & Frontend Developer
+  </span>{" "}
+  with hands-on experience in building scalable web applications and RESTful
+  APIs. I enjoy developing clean, maintainable, and user-friendly software
+  solutions using modern technologies.
+</p>
 
-        <p className="text-xl leading-relaxed mb-8">
-          Currently, I’m a{" "}
-          <span className="font-semibold text-green-400">Senior</span> in my final
-          year at{" "}
-          <span className="font-semibold text-yellow-300">Al-Azhar University</span>,
-          Faculty of Engineering, Department of Computer Systems and Engineering.
-        </p>
+<p className="text-xl leading-relaxed mb-8">
+  I graduated in{" "}
+  <span className="font-semibold text-green-400">2026</span> from{" "}
+  <span className="font-semibold text-yellow-300">
+    Al-Azhar University
+  </span>
+  , Faculty of Engineering, Department of Computer Systems and Engineering.
+</p>
 
-        <p className="text-xl leading-relaxed mb-8">
-          My expertise includes{" "}
-          <span className="font-semibold text-blue-300">
-            Completed courses at ITI and Moalmena, and currently work as an instructor at GDGC (activities)
-          </span>{" "}
-          and other technologies.
-        </p>
+<p className="text-xl leading-relaxed mb-8">
+  My technical expertise includes{" "}
+  <span className="font-semibold text-blue-300">
+    ASP.NET Core Web API, ASP.NET Core MVC, Entity Framework Core, PostgreSQL,
+    SQL Server, React.js, Next.js, and RESTful API Development
+  </span>
+  . I have also completed backend development training based on the ITI learning
+  path and participated in various technical activities and community events.
+</p>
 
-        <p className="text-xl leading-relaxed mb-8">
-          I enjoy learning new technologies, solving problems, and building
-          impactful projects. In my free time, I like exploring open-source
-          projects, teaching others, and constantly improving my skills.
-        </p>
+<p className="text-xl leading-relaxed mb-8">
+  I enjoy learning new technologies, solving real-world problems, contributing
+  to team projects, and building applications that create meaningful impact. My
+  goal is to continuously grow as a software engineer and deliver high-quality
+  software solutions.
+</p>
 
         {/* Buttons */}
         <div className="flex justify-center gap-6 mt-12">
